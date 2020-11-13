@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  rethinkdb:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2020-11-13T17:25:41.424879552Z"
+    description: The open-source database for the realtime web
+    digest: 25efc012a50617412450dc9ca2186f829685646fb71357dcb13f470f2f440ec0
+    home: https://www.rethinkdb.com
+    icon: http://i.imgur.com/bZ75N6r.jpg
+    keywords:
+    - rethinkdb
+    - database
+    - nosql
+    maintainers:
+    - email: jake@gealer.email
+      name: Jake Gealer
+    name: rethinkdb
+    sources:
+    - https://hub.docker.com/r/jakemakesstuff/helm-rethinkdb-cluster/
+    urls:
+    - rethinkdb-1.1.4.tgz
+    version: 1.1.4
+generated: "2020-11-13T17:25:41.423157379Z"
